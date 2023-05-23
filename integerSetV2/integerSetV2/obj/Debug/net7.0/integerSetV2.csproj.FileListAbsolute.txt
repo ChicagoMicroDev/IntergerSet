@@ -1,0 +1,15 @@
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/bin/Debug/net7.0/integerSetV2
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/bin/Debug/net7.0/integerSetV2.deps.json
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/bin/Debug/net7.0/integerSetV2.runtimeconfig.json
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/bin/Debug/net7.0/integerSetV2.dll
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/bin/Debug/net7.0/integerSetV2.pdb
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/obj/Debug/net7.0/integerSetV2.csproj.AssemblyReference.cache
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/obj/Debug/net7.0/integerSetV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/obj/Debug/net7.0/integerSetV2.AssemblyInfoInputs.cache
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/obj/Debug/net7.0/integerSetV2.AssemblyInfo.cs
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/obj/Debug/net7.0/integerSetV2.csproj.CoreCompileInputs.cache
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/obj/Debug/net7.0/integerSetV2.dll
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/obj/Debug/net7.0/refint/integerSetV2.dll
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/obj/Debug/net7.0/integerSetV2.pdb
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/obj/Debug/net7.0/integerSetV2.genruntimeconfig.cache
+/Users/Joe/srcfolder/integerSetV2/integerSetV2/obj/Debug/net7.0/ref/integerSetV2.dll

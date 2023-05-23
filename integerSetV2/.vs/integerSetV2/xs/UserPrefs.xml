@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4E6240AF-7E64-48B6-9D2C-6846FCAB74C8}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.integerSetV2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="integerSetV2/IntergerSet.cs">
+    <Files>
+      <File FileName="integerSetV2/Program.cs" Line="17" Column="1" />
+      <File FileName="integerSetV2/IntergerSet.cs" Line="38" Column="6" />
+      <File FileName="integerSetV2/IntegerSet.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="integerSetV2" expanded="True">
+            <Node name="integerSetV2" expanded="True">
+              <Node name="IntergerSet.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
